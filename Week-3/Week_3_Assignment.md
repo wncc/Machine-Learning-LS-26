@@ -26,7 +26,7 @@ Welcome to Week 3's assignment. This week you build something real: a chatbot th
 - `rag_answer()` — wire all of the above into one function
 - `run_chatbot()` — the interactive console loop
 
-📎 [Open in Colab — Console Chatbot Assignment](https://colab.research.google.com/drive/PLACEHOLDER_LINK?usp=sharing)
+📎 [Open in Colab — Console Chatbot Assignment](https://colab.research.google.com/drive/1tL4OaEcv5_lIllmxW7wzB0RENME558I_?usp=sharing)
 
 ---
 
